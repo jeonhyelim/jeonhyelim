@@ -26,27 +26,38 @@
 </div>
 <br>
 <br>
-
-<h3 align="center"><b> 🧸 PROJECT  </b></h3>
-    <p style="font-weight: 700; font-size: 15px; color: #282d33;">2022 아두이노-ECG 심전도분석 어플리케이션 Front-End 개발</p>
-    <p style="font-weight: 700; font-size: 15px; color: #282d33;">2023 단국대학교 기숙사 웹사이트 Back-End 개발</p>
-    <p style="font-weight: 700; font-size: 15px; color: #282d33;">2023 TABA 4기 이미지 AI 분석 프로젝트 Full-stack 개발</p>
+<h3 align="center"><b>🧸 PROJECT </b></h3>
+<div align="center">
+  <p style="font-weight: 700; font-size: 15px; color: #282d33;">
+    2022 아두이노-ECG 심전도분석 어플리케이션 Front-End 개발
+  </p>
+  <p style="font-weight: 700; font-size: 15px; color: #282d33;">
+    2023 단국대학교 기숙사 웹사이트 Back-End 개발
+  </p>
+  <p style="font-weight: 700; font-size: 15px; color: #282d33;">
+    2023 TABA 4기 이미지 AI 분석 프로젝트 Full-stack 개발
+  </p>
 </div>
 
 <br>
 <br>
+
+<h3 align="center"><b>📔 Publications </b></h3>
+<div align="center">
+  <p style="font-weight: 700; font-size: 15px; color: #282d33;">
+    RNN 기반 모델을 사용한 부정맥 진단 개인화 모델을 위한 연합 학습 프레임워크
+    <br>
+    (Federated Learning Framework for Personalized Arrhythmia Diagnosis Model Using RNN-based Models)
+    <br>
+    - 전혜림, 박재연 [2024 한국소프트웨어종합학술대회(KSC2024)]
+  </p>
+</div>
+
+<br>
 <br>
 
- <h3 align="center"><b>📔 Publications </b></h3>
- <p style="font-weight: 700; font-size: 15px; color: #282d33;">RNN 기반 모델을 사용한 부정맥 진단 개인화 모델을 위한 연합 학습 프레임워크(Federated Learning Framework for Personalized Arrhythmia Diagnosis Model Using RNN-based Models) - 전혜림, 박재연 
-[2024 한국소프트웨어종합학술대회(KSC2024)]</p>
-
-<br>
-<br>
-
-<br>
-
- <h3 align="center"><b>🛠 Skills  </b></h3>
+<h3 align="center"><b>🛠 Skills </b></h3>
+<div align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
   <br>
@@ -67,9 +78,11 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
-<br>
-<br>
+</div>
 
+<br>
+<br>
+<br>
 
 
 
