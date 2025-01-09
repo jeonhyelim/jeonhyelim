@@ -42,7 +42,7 @@
 <br>
 <br>
 
-<h3 align="center"><b>📔 Publications </b></h3>
+<h3 align="center"><b>📔 PUBLICATION </b></h3>
 <div align="center">
   <p style="font-weight: 700; font-size: 15px; color: #282d33;">
     RNN 기반 모델을 사용한 부정맥 진단 개인화 모델을 위한 연합 학습 프레임워크
@@ -56,7 +56,7 @@
 <br>
 <br>
 
-<h3 align="center"><b>🛠 Skills </b></h3>
+<h3 align="center"><b>🛠 SKILL </b></h3>
 <div align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
