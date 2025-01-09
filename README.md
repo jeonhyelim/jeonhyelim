@@ -13,7 +13,7 @@
 <br>
 
 <h3 align="center"><b>📍 PROFILE  </b></h3>
-  <a href="https://github.io/jeonhyelim" target="_blank"><img src="https://img.shields.io/badge/website-ff69b4?style=for-the-badge&logo=About.me&logoColor=FFFFFF"/></a>
+  <a href="https://jeonhyelim.github.io" target="_blank"><img src="https://img.shields.io/badge/website-ff69b4?style=for-the-badge&logo=About.me&logoColor=FFFFFF"/></a>
   <a href="https://github.com/jeonhyelim" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
   <a href="jjjhyelim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-8e7bb4?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
 
