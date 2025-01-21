@@ -36,7 +36,7 @@
     2023 단국대학교 기숙사 웹사이트 Back-End 개발
   </p>
   <p style="font-weight: 700; font-size: 15px; color: #282d33;">
-    2023 TABA 4기 이미지 AI 분석 프로젝트 Full-stack 개발
+    2023 TABA 4기 이미지 AI 분석 프로젝트 개발
   </p>
 </div>
 
