@@ -95,8 +95,7 @@
 
 <div align="center">
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jjjhyelim82)](https://solved.ac/jjjhyelim82)
-
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjjhyelim82)](https://solved.ac/jjjhyelim82/)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonhyelim&langs_count=5&layout=compact)](https://github.com/jogilsang/jogilsang)
   
